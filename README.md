@@ -24,6 +24,5 @@ test
 1. hello
 2. world
 3. abcd
-This is [an example](http://example.com/ "Title") inline link.
-[This link](http://example.net/) has no title attribute.
+go to [baiduABC]("http://www.baidu.com","Baidu.com")
 
