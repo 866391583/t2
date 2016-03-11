@@ -24,5 +24,5 @@ test
 1. hello
 2. world
 3. abcd
-go to [baiduABC]("http://www.baidu.com","Baidu.com")
+go to [baiduABC](http://www.baidu.com "Baidu.com")
 
